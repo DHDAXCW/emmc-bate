@@ -12,7 +12,7 @@
 +	non-removable;
 +	pinctrl-names = "default";
 +	pinctrl-0 = <&emmc_clk &emmc_cmd &emmc_bus8>;
-+	vmmc-supply = <&vcc_io>;
++	vmmc-supply = <&vcc_io_33>;
 +	vqmmc-supply = <&vcc18_emmc>;
 +	status = "okay";
 +};
