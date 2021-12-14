@@ -1,7 +1,7 @@
-From ba63781f5dad2270b03943079ee53f1d37161b96 Mon Sep 17 00:00:00 2001
+From 137bcb46cb786426242fd27d583c2ee81b02bf9b Mon Sep 17 00:00:00 2001
 From: GitHub <git@github.com>
-Date: Mon, 13 Dec 2021 15:37:14 +0800
-Subject: [PATCH] add-emmc-dn1-1
+Date: Tue, 14 Dec 2021 10:22:51 +0800
+Subject: [PATCH] add-emmc-doornet1
 
 ---
  arch/arm64/boot/dts/rockchip/rk3328-doornet1.dts | 13 +++++++++++++
@@ -33,3 +33,4 @@ index 87a0966cc..689776656 100644
  	cap-sd-highspeed;
 -- 
 2.25.1
+
